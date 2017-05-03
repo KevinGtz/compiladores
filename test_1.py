@@ -5,9 +5,14 @@ instrucciones = []
 parametros = []
 
 for r in archivo:
-	print (r.split()[1])
+	instrucciones.append(r.split()[0])
+	parametros.append(r.split()[1])
 
-texto = ""
+
+print (instrucciones)
+print (parametros)
 
 
-	
+
+
+texto = ""	

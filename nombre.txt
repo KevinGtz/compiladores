@@ -1,0 +1,6 @@
+LDV 3;
+STA 100;
+LDV 2;
+STA 101;
+LDA 100;
+MUL 101;

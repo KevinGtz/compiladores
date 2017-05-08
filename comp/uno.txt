@@ -1,0 +1,18 @@
+/* Programa en C */
+main () {
+    int a , b , c ; /*declaracion de variables*/
+    a = 3 ;/* a vale 3*/
+    b = 5 ; /* b vale 5*/
+    c = a + b ;
+    }
+
+/* Programa en python  */
+
+from b import c
+
+a = 5
+b = 2
+c = 3
+
+if ( a == c ) and ( c != b ):
+  print a + b
